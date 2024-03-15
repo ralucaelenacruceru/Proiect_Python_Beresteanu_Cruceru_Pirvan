@@ -1,6 +1,6 @@
 GIF Video Editing Tool
 
-This tool is designed to perform editing operations on GIF videos. It allows you to process each frame of a GIF video, apply operations such as Singular Value Decomposition (SVD), and generate a modified GIF video based on the processed frames.
+This tool is designed to perform editing operations on GIF videos. It allows you to process each frame of a GIF video, apply operations such as Singular Value Decomposition (SVD), and generate an image based on the processed frames.
 
 Features
 
